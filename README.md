@@ -1,1 +1,1 @@
-#Initializing a repo from local machine
+# Initializing a repo from local machine
